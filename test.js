@@ -14,5 +14,5 @@ axios
   })
   .then(function() {
     // always executed
-    console.log("axios test passed");
+    console.log("axios test passed.");
   });
